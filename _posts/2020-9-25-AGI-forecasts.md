@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When will we realise artificial general intelligence?
+text-align: justify
 ---
 
 The realisation of artificial general intelligence (AGI), human-built models that can accomplish most human tasks, would be an event of tremendous significance for the future of humanity and all earthly life. AGI systems might possess [capabilities vastly exceeding humans](https://www.lesswrong.com/posts/8vpf46nLMDYPC6wA4/optimization-and-the-intelligence-explosion) and [radically different goals](https://www.nickbostrom.com/superintelligentwill.pdf), [destabilise international power structures](https://www.lawfareblog.com/thinking-about-risks-ai-accidents-misuse-and-structure), and alter society fundamentally by [populating the world with digital minds](https://nickbostrom.com/papers/digital-minds.pdf). If AGI is technologically feasible, there is arguably a good chance that it will be realised within the next 50 years, potentially making this the most important century in the lifespan of humanity.
