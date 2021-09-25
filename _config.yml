@@ -6,7 +6,7 @@
 name: Ryan Kidd
 
 # Short bio or description (displayed in the header)
-description: # Web Developer from Somewhere
+description: Reflections on systems and ideals
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: ryankidd44@gmail.com
+  facebook: 
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/ryankidd44/
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/ryan-kidd-1b0574a3/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: https://twitter.com/RyanKid02458769
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
