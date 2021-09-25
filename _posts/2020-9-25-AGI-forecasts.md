@@ -9,6 +9,7 @@ Some researchers see the human brain as a physical 'proof-of-concept' that AGI i
 * beating top human players at [Chess, Go](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go), [Starcraft](https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning), [ATARI games](https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark) and [Dota](https://openai.com/blog/openai-five/);
 * [beating humans at some vision tasks](https://arxiv.org/abs/1512.03385);
 * [approaching humans at some language tasks](https://arxiv.org/abs/2005.14165).
+
 If we accept the [computational theory of mind](https://plato.stanford.edu/entries/computational-mind/), which the lack of counter-evidence and trend in AI abilities seems to support, the question of whether neural networks can accomplish a given human task seems to be contingent on whether we can accomplish it with networks small enough to train with realistic computation and cost.
 <!-- If the human mind arises from an uncomputable substrate,  -->
 <!-- Mind might have uncomputable substrate -->
