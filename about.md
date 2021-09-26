@@ -9,3 +9,7 @@ I am a PhD in physics candidate at the University of Queensland, researching [qu
 ### Contact me
 
 [ryankidd44@gmail.com](mailto:ryankidd44@gmail.com)
+
+### Acknowledgments
+
+My avatar is original artwork by [Tamas Smith](https://www.instagram.com/wayne_the_barbarian/).
