@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a PhD in physics candidate at the University of Queensland, researching quantum chaos in ultracold atomic systems. I have a deep interest in [Effective Altruism](https://www.effectivealtruism.org/), a movement for solving the world's most impactful, neglected and tractable problems.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ryankidd44@gmail.com](mailto:ryankidd44@gmail.com)
