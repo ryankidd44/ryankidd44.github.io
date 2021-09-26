@@ -13,3 +13,5 @@ I am a PhD in physics candidate at the University of Queensland, researching [qu
 ### Acknowledgments
 
 My avatar is original artwork by [Tamas Smith](https://www.instagram.com/wayne_the_barbarian/).
+
+Blog code forked from [Jekyll Now](https://github.com/barryclark/jekyll-now) and hosted via [GitHub Pages](https://pages.github.com/).
