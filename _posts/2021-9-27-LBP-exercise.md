@@ -1,0 +1,14 @@
+---
+layout: post
+title: Preventing low back pain with exercise
+---
+
+**Disclaimer: I am not a physician or exercise scientist. This is a draft article and [feedback](mailto:ryankidd44@gmail.com) is greatly appreciated.**
+
+Low back pain (LBP) is an extremely common and debilitating symptom worldwide, experienced by people of all ages and socioeconomic circumstance [[1]](http://doi.org/10.1016/S0140-6736(18)30480-X). In 2017, LBP contributed 65 million disability-adjusted life-years (DALYs) and was the primary cause of work absenteeism and disability worldwide [[2]](https://doi.org/10.21037/atm.2020.02.175). Most LBP cannot be attributed to a specific source and bouts, while typically short, frequently reoccur [[1]](http://doi.org/10.1016/S0140-6736(18)30480-X).
+
+Clinical practise guidelines consistently recommend against treating LBP with opioids, foot orthotics, disc replacement and spinal injections [[3]](https://doi.org/10.1136/bjsports-2018-099878). Routine medical imaging for non-specific LBP is associated with harms [[3]](https://doi.org/10.1136/bjsports-2018-099878). In particular, opioid use is discouraged for LBP due to the potential for opioid-related harms and the recent finding that NSAIDS are equally efficacious for treating acute LBP [[3]](https://doi.org/10.1136/bjsports-2018-099878). Despite the consistency of these guidelines, imagining, surgery and opioids are overused in clinical practise [[3]](https://doi.org/10.1136/bjsports-2018-099878).
+
+The most effective preventative treatment for LBP seems to be exercise, with or without accompanying education [[4]](https://doi.org/10.1136/bjsports-2018-100035). Exercise alone reduces the risk of LBP by 33% on average, with a 95% confidence interval of 15-47% [[5]](https://doi.org/10.1093/aje/kwx337). Further research into optimal frequency, intensity, type and duration of exercise for the prevention and treatment of low back pain is recommended [[4]](https://doi.org/10.1136/bjsports-2018-100035). As a naive starting point, the *Physical Activity Guidelines for Americans* recommend that all adults perform resistance exercises of moderate or greater intensity for all major muscle groups at least twice per week, in addition to minimum aerobic activity guidelines [[6]](https://doi.org/10.1001/jama.2018.14854).
+
+While no specific form of sufficiently intense full-body resistance exercise is recommended above all others, I have highly enjoyed resistance training with loaded barbells due to the low barrier to entry, capacity for consistent and graded progress, and wealth of associated high-quality educational resources. I highly recommend *Barbell Medicine*'s [free exercise program](https://www.barbellmedicine.com/blog/the-beginner-prescription/) and their article on [understanding and training around pain](https://www.barbellmedicine.com/blog/pain-in-training-what-do/).
