@@ -3,8 +3,6 @@ layout: post
 title: Preventing low back pain with exercise
 ---
 
-**Disclaimer: I am not a physician or exercise scientist.**
-
 Low back pain (LBP) is an extremely common and debilitating symptom worldwide, experienced by people of all ages and socioeconomic circumstance [[1]](http://doi.org/10.1016/S0140-6736(18)30480-X). In 2017, LBP contributed 65 million disability-adjusted life-years and was the primary cause of work absenteeism and disability worldwide [[2]](https://doi.org/10.21037/atm.2020.02.175). Most LBP cannot be attributed to a specific source and bouts, while typically short, frequently reoccur [[1]](http://doi.org/10.1016/S0140-6736(18)30480-X).
 
 Clinical practise guidelines consistently recommend against treating LBP with opioids, foot orthotics, disc replacement and spinal injections [[3]](https://doi.org/10.1136/bjsports-2018-099878). In particular, opioid use is discouraged for LBP due to the potential for opioid-related harms and the recent finding that NSAIDS are equally efficacious for treating acute LBP [[3]](https://doi.org/10.1136/bjsports-2018-099878). Similarly, routine medical imaging for non-specific LBP is associated with harms [[3]](https://doi.org/10.1136/bjsports-2018-099878). Despite the consistency of these guidelines, imaging, surgery and opioids are overused in clinical practice [[3]](https://doi.org/10.1136/bjsports-2018-099878).
@@ -19,5 +17,7 @@ Individuals new to resistance training might experience the following barriers:
 * **Fear of injury or preoccupation with perfect form and 'mobility'.** There is no evidence that lower back flexion during resistance training is a risk factor for LBP onset or persistence [[9]](https://doi.org/10.2519/jospt.2020.9218). People with LBP tend to move with a more rigid back than those without pain [[10]](https://doi.org/10.1515/sjpain-2019-0089), potentially a learned response to a [misplaced narrative about the dangers of spinal flexion](https://www.barbellmedicine.com/blog/pain-and-movement-caught-in-an-endless-loop-of-misinformation/). Movement variability is [safe and normal](https://www.barbellmedicine.com/blog/movement-variability-should-we-eliminate-it-or-embrace-it/), and one should [expect lower back flexion](https://www.barbellmedicine.com/blog/normal-movements-of-the-low-back-during-squats-and-deadlifts/) during resistance exercise. Improving 'mobility' [should not be prioritised](https://www.barbellmedicine.com/blog/mobility-explained/) over resistance training.
 
 ---
+
+Disclaimer: I am not a physician or exercise scientist. Consult your general practitioner if you have any concerns.
 
 This article was posted on the [Effective Altruism Forum](https://forum.effectivealtruism.org/posts/swwgCnaxbzSupv6vZ/preventing-low-back-pain-with-exercise).
