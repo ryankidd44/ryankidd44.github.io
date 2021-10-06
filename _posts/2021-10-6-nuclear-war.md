@@ -67,9 +67,9 @@ they excel (Fetter & Wolfsthal, 2018). The possibility of retribution
 makes initial nuclear strikes against a nuclear-armed enemy generally
 inadvisable. Most nuclear states, including the US and Russia, have not
 ruled out launching a preemptive nuclear strike (LordsIRCom, 2019). Few
-nuclear states have adopted an explicit ’no first use’ policy
+nuclear states have adopted an explicit ‘no first use’ policy
 (LordsIRCom, 2019). However, nuclear weapons are ineffective deterrents
-against non-nuclear attack and adopting ’no first use’ does not impact
+against non-nuclear attack and adopting ‘no first use’ does not impact
 their nuclear deterrent capacity (Fetter & Wolfsthal, 2018). The
 blow-back effect of nuclear weapons on the firing state is likely so
 catastrophic (S. D. Baum, 2015; Coupe, Bardeen, Robock, & Toon, 2019;
@@ -131,7 +131,7 @@ Nuclear weapons may may implicitly violate international humanitarian
 law, which requires warring parties to distinguish military and civilian
 targets and avoid harming the latter (Wells, 2017). In 2011, the
 International Red Cross and Red Crescent Movement’s Council of Delegates
-stated, ’it is difficult to envisage how any use of nuclear weapons
+stated, ‘it is difficult to envisage how any use of nuclear weapons
 could be compatible with the requirements of international humanitarian
 law, in particular the rules of distinction, precaution and
 proportionality’ (Borrie et al., 2016).
@@ -221,9 +221,9 @@ effect compared to a gradual disarmament negotiation process,
 particularly if no nuclear weapon states sign the treaty (Borrie et al.,
 2016; Costlow, 2017). However, others believe that banning nuclear
 weapons might help delegitimise their use in warfare or deterrence,
-noting, ’historically, the prohibition of a weapon has usually preceded
+noting, ‘historically, the prohibition of a weapon has usually preceded
 its elimination’ (Borrie et al., 2016). Strengthening the norm against
-nuclear weapon use could reduce nuclear war risk by ’raising the
+nuclear weapon use could reduce nuclear war risk by ‘raising the
 threshold required for states to decide to use nuclear weapons’ (S. D.
 Baum, Neufville, & Barrett, 2018).
 
