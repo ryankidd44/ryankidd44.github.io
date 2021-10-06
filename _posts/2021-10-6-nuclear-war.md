@@ -145,9 +145,9 @@ winter, a dramatic, long-term reduction in global temperatures caused by
 Bardeen, Robock, & Toon, 2019). After nuclear exchange, continental
 North America and Eurasia temperatures are predicted to drop by at least
 20°C for up to three years (Coupe, Bardeen, Robock, & Toon, 2019).
-Summer temperatures below −4°C during years two and three post-war would
-render agriculture impossible for the US, Russia, Eastern Europe and
-much of China (Coupe, Bardeen, Robock, & Toon, 2019). Global
+Summer temperatures below −4°C during years two and three post-war
+would render agriculture impossible for the US, Russia, Eastern Europe
+and much of China (Coupe, Bardeen, Robock, & Toon, 2019). Global
 temperatures are predicted to remain 0.5-1°C below normal 15 years after
 nuclear exchange (Coupe, Bardeen, Robock, & Toon, 2019).
 
@@ -185,15 +185,14 @@ marine life (Coupe et al., 2021).
 
 ## Nuclear threat reduction
 
-The US and Russia each have  1600 nuclear warheads deployed and a
-further  4000 warheads stockpiled (Kristensen & Korda, 2021). Such
-quantities of nuclear weapons far exceed the pragmatic limit required to
-achieve nuclear deterrence in the worst case scenario, 100 warheads per
-state actor (Pearce & Denkenberger, 2018). If the US launched 1000
-nuclear weapons at foreign targets, the best case outcome with no
-retaliation would still leave 140 thousand US citizens dead by
-starvation due to global agricultural loss (Pearce & Denkenberger,
-2018).
+The US and Russia each have 1600 nuclear warheads deployed and a further
+4000 warheads stockpiled (Kristensen & Korda, 2021). Such quantities of
+nuclear weapons far exceed the pragmatic limit required to achieve
+nuclear deterrence in the worst case scenario, 100 warheads per state
+actor (Pearce & Denkenberger, 2018). If the US launched 1000 nuclear
+weapons at foreign targets, the best case outcome with no retaliation
+would still leave 140 thousand US citizens dead by starvation due to
+global agricultural loss (Pearce & Denkenberger, 2018).
 
 Because of the massive repercussions of nuclear war on the aggressing
 nation, nuclear deterrence of conventional attacks lacks credibility
