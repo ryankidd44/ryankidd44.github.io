@@ -123,9 +123,9 @@ initial blasts and radioactive fallout (Future of Life Institute, n.d.).
 A smaller regional nuclear war between India and Pakistan with projected
 2025 nuclear weapon stockpiles would initially kill 50-125 million
 people (Toon et al., 2019). An adequate humanitarian response to a
-nuclear war is currently impossible (Gale & Nathan, 2019; International
-Red Cross and Red Crescent Movement, 2018; National Academies of
-Sciences, Engineering, and Medicine, 2019; Wells, 2017).
+nuclear war is currently impossible (Gale & Nathan, 2019; ICRC, 2018;
+National Academies of Sciences, Engineering, and Medicine, 2019; Wells,
+2017).
 
 Nuclear weapons may may implicitly violate international humanitarian
 law, which requires warring parties to distinguish military and civilian
@@ -321,9 +321,9 @@ the Treaty on the Prohibition of Nuclear Weapons</span>. International
 Campaign to Abolish Nuclear Weapons. Retrieved from
 <https://www.icanw.org/status-of-the-treaty-on-the-prohibition-of-nuclear-weapons/>
 
-International Red Cross and Red Crescent Movement. (2018). <span
-class="nocase">Nuclear weapons – an intolerable threat to
-humanity</span>. Retrieved from
+ICRC. (2018). <span class="nocase">Nuclear weapons – an intolerable
+threat to humanity</span>. International Red Cross and Red Crescent
+Movement. Retrieved from
 <https://www.icrc.org/en/nuclear-weapons-a-threat-to-humanity>
 
 Kristensen, H. M., & Korda, M. (2021). <span class="nocase">Status of
