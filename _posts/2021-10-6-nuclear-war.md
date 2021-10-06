@@ -3,14 +3,14 @@ layout: post
 title: Is nuclear deterrence worth extinction risk?
 ---
 
-## Ethics of extinction
-
 To illustrate why choices that lead to extinction events are potentially
 special among ethical problems, we consider the following thought
 experiment. Amy has been given three options:
 
 1.  Peace;
+
 2.  Kill 99% of the population; or
+
 3.  Kill 100% of the population.
 
 This is a trivial choice for Amy, as she, like most people, would
@@ -40,12 +40,11 @@ proliferation.
 
 ## Likelihood of nuclear war
 
-The yearly likelihood of nuclear war has never been higher (Mecklin,
-2021; Select Committee on International Relations, 2019). Past nuclear
-arms control agreements have expired or been abandoned, diplomatic
-tensions between nuclear states are high and nuclear weapon research and
-deployment continues unabated (Select Committee on International
-Relations, 2019). As of May 2019, 13 thousand nuclear weapons are
+The yearly likelihood of nuclear war has never been higher (LordsIRCom,
+2019; Mecklin, 2021). Past nuclear arms control agreements have expired
+or been abandoned, diplomatic tensions between nuclear states are high
+and nuclear weapon research and deployment continues unabated
+(LordsIRCom, 2019). As of May 2019, 13 thousand nuclear weapons are
 estimated to exist, about two thousand of which are on high alert for
 immediate deployment in the US, Russia, Britain and France alone
 (Kristensen & Korda, 2021). The United States, under the Trump
@@ -67,10 +66,9 @@ foreign nuclear attack—if they strike, we strike—and in this capacity
 they excel (Fetter & Wolfsthal, 2018). The possibility of retribution
 makes initial nuclear strikes against a nuclear-armed enemy generally
 inadvisable. Most nuclear states, including the US and Russia, have not
-ruled out launching a preemptive nuclear strike (Select Committee on
-International Relations, 2019). Few nuclear states have adopted an
-explicit ’no first use’ policy (Select Committee on International
-Relations, 2019). However, nuclear weapons are ineffective deterrents
+ruled out launching a preemptive nuclear strike (LordsIRCom, 2019). Few
+nuclear states have adopted an explicit ’no first use’ policy
+(LordsIRCom, 2019). However, nuclear weapons are ineffective deterrents
 against non-nuclear attack and adopting ’no first use’ does not impact
 their nuclear deterrent capacity (Fetter & Wolfsthal, 2018). The
 blow-back effect of nuclear weapons on the firing state is likely so
@@ -81,17 +79,16 @@ response (Fetter & Wolfsthal, 2018).
 
 Even if sustained nuclear deterrence policy is successful, nuclear
 arsenals are vulnerable to human error, technology failure and
-cybersecurity threats from terrorists and rival states (Select Committee
-on International Relations, 2019). Dozens of near-miss nuclear launches
-and accidents have been recorded, many caused by human error or sensor
-malfunction (S. D. Baum, Neufville, & Barrett, 2018). Nuclear command
-chains remain subject to human error and escalation. Current and future
-nuclear weapons are conceivably targetable by cyber attack and there
-exists no unilateral policy between nuclear states for the response to
-such an event (Select Committee on International Relations, 2019).
-Stockpiles of weapons-ready nuclear materials are potentially vulnerable
-to terrorists (Nuclear Threat Initiative, 2015), who conceivably have no
-deterrence obligations.
+cybersecurity threats from terrorists and rival states (LordsIRCom,
+2019). Dozens of near-miss nuclear launches and accidents have been
+recorded, many caused by human error or sensor malfunction (S. D. Baum,
+Neufville, & Barrett, 2018). Nuclear command chains remain subject to
+human error and escalation. Current and future nuclear weapons are
+conceivably targetable by cyber attack and there exists no unilateral
+policy between nuclear states for the response to such an event
+(LordsIRCom, 2019). Stockpiles of weapons-ready nuclear materials are
+potentially vulnerable to terrorists (Nuclear Threat Initiative, 2015),
+who conceivably have no deterrence obligations.
 
 To reduce human error and increasing strategic capabilities,
 nuclear-armed states are considering acceding control of their arsenals
@@ -217,7 +214,7 @@ outlawed the use, possession and development of nuclear weapons
 worldwide (United Nations, 2017). No nuclear weapon possessor states
 voted on the treaty (Fetter & Wolfsthal, 2018). The TPNW currently has
 86 nation signatories and 56 states parties that have ratified the
-treaty (International Campaign to Abolish Nuclear Weapons, 2019b).
+treaty (ICANW, 2021c).
 
 Critics of the TPNW believe that a nuclear weapons ban will have little
 effect compared to a gradual disarmament negotiation process,
@@ -233,19 +230,17 @@ Baum, Neufville, & Barrett, 2018).
 A global campaign for non-nuclear NATO members to sign the TPNW, if
 effective, will reduce the deterrence requirements of the US (Fetter &
 Wolfsthal, 2018). Australia, a NATO member, has not yet signed the
-treaty (International Campaign to Abolish Nuclear Weapons, 2019b);
-despite this, 18 Australian cities, including Canberra, Melbourne and
-Sydney, but not Brisbane, have endorsed the treaty (International
-Campaign to Abolish Nuclear Weapons, 2019a). The current federal
-opposition party, the Australian Labor Party, has resolved to sign the
-treaty (International Campaign to Abolish Nuclear Weapons, 2021).
+treaty (ICANW, 2021c); despite this, 38 Australian cities, including
+Canberra, Melbourne and Sydney, but not Brisbane, have endorsed the
+treaty (ICANW, 2021b). The current federal opposition party, the
+Australian Labor Party, has resolved to sign the treaty (ICANW, 2021a).
 
 It is up to the reader to decide if the extinction-level risks posed by
 nuclear weapons, arguably a paramount threat of our time, justify their
 existence as deterrents in an increasingly unstable global landscape
-when diplomacy and alternative, winter-safe, deterrents exist; if not,
-what steps must be taken to reduce the nuclear threat to all current and
-future life?
+when diplomatic solutions and alternative, winter-safe, deterrents
+exist; if not, what steps must be taken to reduce the nuclear threat to
+all current and future life?
 
 ## References
 
@@ -314,17 +309,17 @@ Artificial Intelligence Affect the Risk of Nuclear War?</span>* Santa
 Monica, CA: RAND Corporation. Retrieved from
 <https://www.rand.org/pubs/perspectives/PE296.html>
 
-International Campaign to Abolish Nuclear Weapons. (2019a). <span
-class="nocase">Australian cities behind the ban</span>. Retrieved from
-<https://www.icanw.org/au/cities/>
+ICANW. (2021a). Australia. International Campaign to Abolish Nuclear
+Weapons. Retrieved from <https://www.icanw.org/australia>
 
-International Campaign to Abolish Nuclear Weapons. (2019b). <span
-class="nocase">Signature/ratification status of the Treaty on the
-Prohibition of Nuclear Weapons</span>. Retrieved from
+ICANW. (2021b). <span class="nocase">Australian cities behind the
+ban</span>. International Campaign to Abolish Nuclear Weapons. Retrieved
+from <https://www.icanw.org/au/cities/>
+
+ICANW. (2021c). <span class="nocase">Signature/ratification status of
+the Treaty on the Prohibition of Nuclear Weapons</span>. International
+Campaign to Abolish Nuclear Weapons. Retrieved from
 <https://www.icanw.org/status-of-the-treaty-on-the-prohibition-of-nuclear-weapons/>
-
-International Campaign to Abolish Nuclear Weapons. (2021). Australia.
-Retrieved from <https://www.icanw.org/australia>
 
 International Red Cross and Red Crescent Movement. (2018). <span
 class="nocase">Nuclear weapons – an intolerable threat to
@@ -335,6 +330,12 @@ Kristensen, H. M., & Korda, M. (2021). <span class="nocase">Status of
 World Nuclear Forces</span>. Federation of American Scientists.
 Retrieved from
 <https://fas.org/issues/nuclear-weapons/status-world-nuclear-forces/>
+
+LordsIRCom. (2019). *<span class="nocase">Rising nuclear risk,
+disarmament and the Nuclear Non-Proliferation Treaty</span>* (No. 338).
+United Kingdom: House of Lords Select Committee on International
+Relations. Retrieved from
+<https://publications.parliament.uk/pa/ld201719/ldselect/ldintrel/338/33802.htm>
 
 Loss, R., & Johnson, J. (2019). Will Artificial Intelligence Imperil
 Nuclear Deterrence? War on the Rocks. Retrieved from
@@ -383,12 +384,6 @@ Robock, Alan., & Brian Toon, O. (2012). <span
 class="nocase">Self-assured destruction: The climate impacts of nuclear
 war</span>. *Bulletin of the Atomic Scientists*, *68*(5), 66–74.
 <https://doi.org/10.1177/0096340212459127>
-
-Select Committee on International Relations. (2019). *<span
-class="nocase">Rising nuclear risk, disarmament and the Nuclear
-Non-Proliferation Treaty</span>* (No. 338). United Kingdom: House of
-Lords. Retrieved from
-<https://publications.parliament.uk/pa/ld201719/ldselect/ldintrel/338/33802.htm>
 
 Toon, O. B., Bardeen, C. G., Robock, A., Xia, L., Kristensen, H.,
 McKinzie, M., … Turco, R. P. (2019). <span class="nocase">Rapidly
