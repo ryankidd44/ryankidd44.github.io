@@ -250,10 +250,10 @@ Treaty</span>](https://publications.parliament.uk/pa/ld201719/ldselect/ldintrel/
 No. 338, House of Lords, 2019.</span>
 
 <span class="csl-left-margin">\[5\] </span><span
-class="csl-right-inline">H. M. Kristensen and M. Korda, *[<span
+class="csl-right-inline">H. M. Kristensen and M. Korda, [<span
 class="nocase">Status of World Nuclear
-Forces</span>](https://fas.org/issues/nuclear-weapons/status-world-nuclear-forces/)*,
-(2021).</span>
+Forces</span>](https://fas.org/issues/nuclear-weapons/status-world-nuclear-forces/),
+Federation of American Scientists, 2021.</span>
 
 <span class="csl-left-margin">\[6\] </span><span
 class="csl-right-inline">S. Fetter and J. Wolfsthal, *[<span
@@ -344,10 +344,10 @@ War</span>](https://www.ascopost.com/issues/july-25-2019/physicians-and-the-thre
 The ASCO Post (2019).</span>
 
 <span class="csl-left-margin">\[20\] </span><span
-class="csl-right-inline">N. Wells, *[<span class="nocase">Nuclear
-Weapons and the Future of
-Humanity</span>](https://www.internationalaffairs.org.au/australianoutlook/nuclear-weapons-and-the-future-of-humanity/)*,
-(2017).</span>
+class="csl-right-inline">N. Wells, [<span class="nocase">Nuclear Weapons
+and the Future of
+Humanity</span>](https://www.internationalaffairs.org.au/australianoutlook/nuclear-weapons-and-the-future-of-humanity/),
+Australian Institute of International Affairs, 2017.</span>
 
 <span class="csl-left-margin">\[21\] </span><span
 class="csl-right-inline">J. Borrie, T. Caughley, T. G. Hugo, M. Løvold,
@@ -436,7 +436,7 @@ Weapons</span>](https://www.icanw.org/status-of-the-treaty-on-the-prohibition-of
 class="csl-right-inline">M. Costlow, *[<span class="nocase">The Nuclear
 Ban Treat is Way Off
 Target</span>](https://warontherocks.com/2017/07/the-nuclear-ban-treaty-is-way-off-target/)*,
-(2017).</span>
+War on the Rocks (2017).</span>
 
 <span class="csl-left-margin">\[33\] </span><span
 class="csl-right-inline">International Campaign to Abolish Nuclear
