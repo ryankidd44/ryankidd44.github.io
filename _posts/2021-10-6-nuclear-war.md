@@ -243,11 +243,11 @@ midnight</span>](https://thebulletin.org/doomsday-clock/current-time/)*,
 Bulletin of the Atomic Scientists (2021).</span>
 
 <span class="csl-left-margin">\[4\] </span><span
-class="csl-right-inline">LordsIRCom, [<span class="nocase">Rising
-nuclear risk, disarmament and the Nuclear Non-Proliferation
+class="csl-right-inline">House of Lords Select Committee on
+International Relations, [<span class="nocase">Rising nuclear risk,
+disarmament and the Nuclear Non-Proliferation
 Treaty</span>](https://publications.parliament.uk/pa/ld201719/ldselect/ldintrel/338/33802.htm),
-No. 338, House of Lords Select Committee on International Relations,
-2019.</span>
+No. 338, House of Lords, 2019.</span>
 
 <span class="csl-left-margin">\[5\] </span><span
 class="csl-right-inline">H. M. Kristensen and M. Korda, *[<span
@@ -282,7 +282,7 @@ Deterrence</span>](https://doi.org/10.1080/13523260.2015.1012346)*,
 Contemporary Security Policy **36**, 123 (2015).</span>
 
 <span class="csl-left-margin">\[10\] </span><span
-class="csl-right-inline">Alan. Robock and O. Brian Toon, *[<span
+class="csl-right-inline">A. Robock and O. Brian Toon, *[<span
 class="nocase">Self-assured destruction: The climate impacts of nuclear
 war</span>](https://doi.org/10.1177/0096340212459127)*, Bulletin of the
 Atomic Scientists **68**, 66 (2012).</span>
@@ -313,7 +313,7 @@ Deterrence?](https://warontherocks.com/2019/09/will-artificial-intelligence-impe
 class="csl-right-inline">Future of Life Institute, *[<span
 class="nocase">The Risk of Nuclear
 Weapons</span>](https://futureoflife.org/background/the-risk-of-nuclear-weapons/)*,
-(n.d.).</span>
+(2016).</span>
 
 <span class="csl-left-margin">\[16\] </span><span
 class="csl-right-inline">O. B. Toon, C. G. Bardeen, A. Robock, L. Xia,
@@ -324,8 +324,9 @@ catastrophe</span>](https://doi.org/10.1126/sciadv.aay5478)*, Science
 Advances **5**, eaay5478 (2019).</span>
 
 <span class="csl-left-margin">\[17\] </span><span
-class="csl-right-inline">ICRC, *[<span class="nocase">Nuclear weapons –
-an intolerable threat to
+class="csl-right-inline">International Red Cross and Red Crescent
+Movement, *[<span class="nocase">Nuclear weapons – an intolerable threat
+to
 humanity</span>](https://www.icrc.org/en/nuclear-weapons-a-threat-to-humanity)*,
 (2018).</span>
 
@@ -425,9 +426,9 @@ Weapons</span>](https://www.un.org/disarmament/wmd/nuclear/tpnw/)*,
 (2017).</span>
 
 <span class="csl-left-margin">\[31\] </span><span
-class="csl-right-inline">ICANW, *[<span
-class="nocase">Signature/ratification status of the Treaty on the
-Prohibition of Nuclear
+class="csl-right-inline">International Campaign to Abolish Nuclear
+Weapons, *[<span class="nocase">Signature/ratification status of the
+Treaty on the Prohibition of Nuclear
 Weapons</span>](https://www.icanw.org/status-of-the-treaty-on-the-prohibition-of-nuclear-weapons/)*,
 (2021).</span>
 
@@ -438,10 +439,10 @@ Target</span>](https://warontherocks.com/2017/07/the-nuclear-ban-treaty-is-way-o
 (2017).</span>
 
 <span class="csl-left-margin">\[33\] </span><span
-class="csl-right-inline">ICANW, *[<span class="nocase">Australian cities
-behind the ban</span>](https://www.icanw.org/au/cities/)*,
-(2021).</span>
+class="csl-right-inline">International Campaign to Abolish Nuclear
+Weapons, *[<span class="nocase">Australian cities behind the
+ban</span>](https://www.icanw.org/au/cities/)*, (2021).</span>
 
 <span class="csl-left-margin">\[34\] </span><span
-class="csl-right-inline">ICANW,
-*[Australia](https://www.icanw.org/australia)*, (2021).</span>
+class="csl-right-inline">International Campaign to Abolish Nuclear
+Weapons, *[Australia](https://www.icanw.org/australia)*, (2021).</span>
