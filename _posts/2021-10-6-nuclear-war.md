@@ -307,7 +307,7 @@ RAND Corporation, 2018.</span>
 class="csl-right-inline">R. Loss and J. Johnson, *[Will Artificial
 Intelligence Imperil Nuclear
 Deterrence?](https://warontherocks.com/2019/09/will-artificial-intelligence-imperil-nuclear-deterrence/)*,
-(2019).</span>
+War on the Rocks (2019).</span>
 
 <span class="csl-left-margin">\[15\] </span><span
 class="csl-right-inline">Future of Life Institute, *[<span
@@ -354,7 +354,7 @@ class="csl-right-inline">J. Borrie, T. Caughley, T. G. Hugo, M. Løvold,
 G. Nystuen, and C. Waszink, [<span class="nocase">A Prohibition on
 Nuclear
 Weapons</span>](https://www.unidir.org/files/publications/pdfs/a-prohibition-on-nuclear-weapons-a-guide-to-the-issues-en-647.pdf),
-2016.</span>
+United Nations Institute for Disarmament Research, 2016.</span>
 
 <span class="csl-left-margin">\[22\] </span><span
 class="csl-right-inline">P. Yu, O. B. Toon, C. G. Bardeen, Y. Zhu, K. H.
