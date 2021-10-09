@@ -294,7 +294,7 @@ War</span>](https://doi.org/10.2139/ssrn.3137081), No. 18-1, Global
 Catastrophic Risk Institute, 2018.</span>
 
 <span class="csl-left-margin">\[12\] </span><span
-class="csl-right-inline">N. T. Initiative, *[The Nuclear
+class="csl-right-inline">Nuclear Threat Initiative, *[The Nuclear
 Threat](https://www.nti.org/learn/nuclear/)*, (2015).</span>
 
 <span class="csl-left-margin">\[13\] </span><span
