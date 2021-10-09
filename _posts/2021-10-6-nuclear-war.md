@@ -247,7 +247,7 @@ class="csl-right-inline">House of Lords Select Committee on
 International Relations, [<span class="nocase">Rising nuclear risk,
 disarmament and the Nuclear Non-Proliferation
 Treaty</span>](https://publications.parliament.uk/pa/ld201719/ldselect/ldintrel/338/33802.htm),
-No. 338, House of Lords, 2019.</span>
+No. 338, UK Parliament, 2019.</span>
 
 <span class="csl-left-margin">\[5\] </span><span
 class="csl-right-inline">H. M. Kristensen and M. Korda, [<span
@@ -446,3 +446,4 @@ ban</span>](https://www.icanw.org/au/cities/)*, (2021).</span>
 <span class="csl-left-margin">\[34\] </span><span
 class="csl-right-inline">International Campaign to Abolish Nuclear
 Weapons, *[Australia](https://www.icanw.org/australia)*, (2021).</span>
+
