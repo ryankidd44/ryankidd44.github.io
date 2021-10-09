@@ -434,7 +434,7 @@ Weapons</span>](https://www.icanw.org/status-of-the-treaty-on-the-prohibition-of
 
 <span class="csl-left-margin">\[32\] </span><span
 class="csl-right-inline">M. Costlow, *[<span class="nocase">The Nuclear
-Ban Treat is Way Off
+Ban Treaty is Way Off
 Target</span>](https://warontherocks.com/2017/07/the-nuclear-ban-treaty-is-way-off-target/)*,
 War on the Rocks (2017).</span>
 
