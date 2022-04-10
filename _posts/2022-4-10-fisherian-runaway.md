@@ -39,3 +39,7 @@ Fisherian runaway offers the following insights for AI alignment:
 * "Agentic" search might not be necessary for something quite similar to gradient hacking to emerge. The local nature of search via SGD might be sufficient to birth optimization demons.
 
 Fisherian runaway in peacock plumage is a surprisingly useful "[intuition pump](https://en.wikipedia.org/wiki/Intuition_pump)" for exploring gradient hacking. I suspect there are many further examples of possible runaway Fisher processes in nature that could be mined for useful insight, such as [that discussed here](https://doi.org/10.3389/fpsyg.2015.00628). Ecological models that favor Fisherian runaway might be adapted into useful mathematical approximations of gradient hacking and allow this phenomenon to be instantiated and studied in minimal ML models.
+
+---
+
+This article was posted on [LessWrong](https://www.lesswrong.com/posts/eqNvpQst5TRLbxyTK/is-fisherian-runaway-gradient-hacking).
