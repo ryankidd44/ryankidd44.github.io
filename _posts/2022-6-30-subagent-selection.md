@@ -124,3 +124,7 @@ Subagent-like modularity might offer performance advantages to some cognitive pr
 ## Conclusion
 
 This is still a very rough outline of the selection processes that might contribute to subagent architectures. I appreciate all feedback and would love any support in addressing what I see as the open questions in this line of research. I do not believe that the existence of subagents in the human brain is settled, or even necessarily a concept that "carves reality at the joints" (e.g., see [here](https://www.lesswrong.com/posts/H5iGhDhQBtoDpCBZ2/announcing-the-alignment-of-complex-systems-research-group?commentId=sAhReJfp2SkvACwJQ)), but hope that the discussion of subagent selection processes here might be useful.
+
+---
+
+This article was posted on [LessWrong](https://www.lesswrong.com/posts/d4hw4FBX9YXHGFBWQ/selection-processes-for-subagents).
