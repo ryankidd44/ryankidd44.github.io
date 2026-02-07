@@ -1,20 +1,44 @@
 # Talks, podcasts, and presentations
 # Most recent first
 
-- title: "The Cognitive Revolution Podcast"
-  date: "2024"
-  url: "https://www.cognitiverevolution.ai/episode-link"
-  description: "Discussion on MATS, training alignment researchers, and the future of the AI safety field."
+- title: "Scaling AI Safety Through Mentorship"
   type: "Podcast"
-  tags:
-    - "Field Building"
+  url: "https://kairos.fm/intoaisafety/e027/"
+  description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
+  source: "Into AI Safety"
+  date: "2026-2-1"
 
-# Add more talks below:
-# - title: "Talk Title"
-#   date: "2024"
-#   url: "https://example.com"
-#   description: "Brief description of the talk."
-#   type: "Conference"  # or "Podcast", "Workshop", "Seminar", etc.
-#   tags:
-#     - "Tag1"
-#     - "Tag2"
+- title: "Why AI Safety Needs Founders"
+  type: "Podcast"
+  url: "https://blog.bluedot.org/p/ryan-kidd"
+  description: "I discuss my background, pathway into AI safety field-building, and recommendations for aspiring founders and field-builders."
+  source: "BlueDot Impact"
+  date: "2026-1-30"
+
+- title: "Building & Scaling the AI Safety Research Community"
+  type: "Podcast"
+  url: "https://www.cognitiverevolution.ai/building-scaling-the-ai-safety-research-community-with-ryan-kidd-of-mats/"
+  description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
+  source: "The Cognitive Revolution"
+  date: "2026-1-4"
+
+- title: "Dr. Ryan Kidd on AI Safety field building"
+  type: "Talk"
+  url: "https://www.youtube.com/watch?v=-NiUg8QSBcM"
+  description: "A summary of AI safety field-building needs and MATS efforts."
+  source: "AI Alignment Network"
+  date: "2024-6-13"
+
+- title: "Insights from two years of AI safety field-building at MATS"
+  type: "Talk"
+  url: "https://www.youtube.com/watch?v=tA9K8JqyhP4"
+  description: "A summary of MATS' efforts to grow the AI safety research field."
+  source: "Technical AI Safety Conference 2024"
+  date: "2024-4-5"
+
+- title: "Accelerated training to become an AI safety researcher"
+  type: "Podcast"
+  url: "https://www.theagishow.com/2082819/episodes/13932966-ep-10-accelerated-training-to-become-an-ai-safety-researcher-w-ryan-kidd-co-director-mats"
+  description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
+  source: "The AGI Show"
+  date: "2023-11-8"

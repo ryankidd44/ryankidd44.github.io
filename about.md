@@ -4,14 +4,32 @@ title: About
 permalink: /about/
 ---
 
-I am Co-Executive Director of [MATS Research](https://matsprogram.org) and Co-Founder of the [London Initiative for Safe AI](https://safeai.org.uk). Previously, I completed a PhD in physics at the University of Queensland, researching [quantum chaos in ultracold atomic systems](https://scholar.google.com/citations?user=krfonA0AAAAJ&hl=en). I have a deep interest in [Effective Altruism](https://www.effectivealtruism.org/), a movement for solving the world's most impactful, neglected and tractable problems.
+<div class="about-content">
+    <div class="about-section">
+        <h3>Current Work</h3>
+        <p>I co-lead <strong>MATS Research</strong>, a research nonprofit that trains talented researchers to work on AI alignment, transparency, and security. We run fellowship programs that have supported 446 researchers, with offices in Berkeley and London.</p>
+        <p>My focus is on scaling AI safety through field—building the organizations, talent pipelines, and infrastructure needed to ensure advanced AI systems are developed safely. I think about organizational design, talent development, and field-wide coordination.</p>
+    </div>
 
-### Contact me
+    <div class="about-section">
+        <h3>Mission</h3>
+        <p>I believe the development of transformative AI is one of the most important events in human history, and that we have a narrow window to get the foundations right. My work is oriented toward building the human capital and institutional capacity the field needs to succeed.</p>
+    </div>
 
-[ryankidd44 [at] gmail.com](mailto:ryankidd44@gmail.com)
+    <div class="about-section">
+        <h3>Board & Advisory Positions</h3>
+        <ul>
+            {% for position in site.data.positions %}
+            <li>
+                <span class="position-title">{{ position.role }}</span>
+                <span class="position-org">— {{ position.organization }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 
-### Acknowledgments
-
-My avatar is original artwork by [Tamas Smith](https://www.instagram.com/wayne_the_barbarian/).
-
-Blog code forked from [Jekyll Now](https://github.com/barryclark/jekyll-now) and hosted via [GitHub Pages](https://pages.github.com/).
+    <div class="about-section">
+        <h3>Background</h3>
+        <p>Before MATS, I completed a PhD in physics. I've been working in AI safety for four years, and have been fortunate to contribute to the field's growth during a critical period.</p>
+    </div>
+</div>
