@@ -1,7 +1,7 @@
 # Talks, podcasts, and presentations
 # Most recent first
 
-- title: "Scaling AI Safety Through Mentorship"
+- title: "Into AI Safety: Scaling AI Safety Through Mentorship"
   type: "Podcast"
   url: "https://kairos.fm/intoaisafety/e027/"
   description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
@@ -15,30 +15,44 @@
   source: "BlueDot Impact"
   date: "2026-1-30"
 
-- title: "Building & Scaling the AI Safety Research Community"
+- title: "The Cognitive Revolution: Building & Scaling the AI Safety Research Community"
   type: "Podcast"
   url: "https://www.cognitiverevolution.ai/building-scaling-the-ai-safety-research-community-with-ryan-kidd-of-mats/"
   description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
   source: "The Cognitive Revolution"
   date: "2026-1-4"
 
-- title: "Dr. Ryan Kidd on AI Safety field building"
+- title: "ALIGN: Dr. Ryan Kidd on AI Safety field building"
   type: "Talk"
   url: "https://www.youtube.com/watch?v=-NiUg8QSBcM"
   description: "A summary of AI safety field-building needs and MATS efforts."
   source: "AI Alignment Network"
   date: "2024-6-13"
 
-- title: "Insights from two years of AI safety field-building at MATS"
+- title: "TAIS 2024: Insights from two years of AI safety field-building at MATS"
   type: "Talk"
   url: "https://www.youtube.com/watch?v=tA9K8JqyhP4"
   description: "A summary of MATS' efforts to grow the AI safety research field."
   source: "Technical AI Safety Conference 2024"
   date: "2024-4-5"
 
-- title: "Accelerated training to become an AI safety researcher"
+- title: "The AGI Show: Accelerated training to become an AI safety researcher"
   type: "Podcast"
   url: "https://www.theagishow.com/2082819/episodes/13932966-ep-10-accelerated-training-to-become-an-ai-safety-researcher-w-ryan-kidd-co-director-mats"
   description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
   source: "The AGI Show"
   date: "2023-11-8"
+
+- title: "EAGxAustralia 2023: Is AI an existential risk? A discussion | Ryan Kidd, James Fodor"
+  type: "Panel"
+  url: "https://www.youtube.com/watch?v=00nXJV4ly0A"
+  description: "A discussion on whether AI might pose an existential risk to humanity."
+  source: "EAGxAustralia 2023"
+  date: "2023-9-23"
+
+- title: "Science, Technology & the Future: AI Alignment Issues"
+  type: "Podcast"
+  url: "https://www.youtube.com/watch?v=XvjxEXhpdaQ"
+  description: "A discussion of AI alignment risks and mitigations."
+  source: "Science, Technology & the Future"
+  date: "2023-9-23"
