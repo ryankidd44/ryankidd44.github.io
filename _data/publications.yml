@@ -2,12 +2,22 @@
 # For external links (LessWrong, etc). Blog posts on this site go in _posts/ with category: publication
 
 - title: "AI Safety Undervalues Founders"
-  date: "2024"
-  url: "https://www.lesswrong.com/posts/YOUR_POST_ID/ai-safety-undervalues-founders"
-  description: "An argument for why the AI safety field needs to invest more heavily in entrepreneurial talent and organization-building capacity."
+  url: "https://www.lesswrong.com/posts/yw9B5jQazBKGLjize/ai-safety-undervalues-founders"
+  description: "Why the AI safety field needs to invest more in entrepreneurial talent and organization-building, not just technical research."
   source: "LessWrong"
+  date: "2025-11-15"
   tags:
     - "Field Building"
+
+- title: "Talent Needs of Technical AI Safety Teams"
+  url: "https://www.lesswrong.com/posts/QzQQvGJYDeaDE4Cfg/talent-needs-of-technical-ai-safety-teams"
+  description: "The primary archetypes of technical talent needed for AI safety."
+  source: "LessWrong"
+  date: "2025-5-23"
+  tags:
+    - "Field Building"
+
+
 
 # Add more publications below:
 # - title: "Publication Title"

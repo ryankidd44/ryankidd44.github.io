@@ -2,10 +2,26 @@
 # Listed on the About page
 
 - role: "Board Member"
-  organization: "Organization Name"
+  organization: "London Initiaitve for Safe AI (LISA)"
+
+- role: "Regrantor"
+  organization: "Manifund"
 
 - role: "Advisor"
-  organization: "Organization Name"
+  organization: "Halcyon Futures"
+
+- role: "Advisor"
+  organization: "Catalyze Impact"
+
+- role: "Advisor"
+  organization: "Pivotal Research"
+
+- role: "Advisor"
+  organization: "AI Safety ANZ"
+
+
+- role: "Advisor"
+  organization: "Black in AI Safety and Ethics (BASE)"
 
 # Add more positions:
 # - role: "Role Title"
