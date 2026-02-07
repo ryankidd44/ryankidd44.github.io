@@ -1,0 +1,20 @@
+# Talks, podcasts, and presentations
+# Most recent first
+
+- title: "The Cognitive Revolution Podcast"
+  date: "2024"
+  url: "https://www.cognitiverevolution.ai/episode-link"
+  description: "Discussion on MATS, training alignment researchers, and the future of the AI safety field."
+  type: "Podcast"
+  tags:
+    - "Field Building"
+
+# Add more talks below:
+# - title: "Talk Title"
+#   date: "2024"
+#   url: "https://example.com"
+#   description: "Brief description of the talk."
+#   type: "Conference"  # or "Podcast", "Workshop", "Seminar", etc.
+#   tags:
+#     - "Tag1"
+#     - "Tag2"

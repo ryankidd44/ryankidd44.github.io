@@ -1,0 +1,19 @@
+# Publications - papers, essays, in-depth writing
+# For external links (LessWrong, etc). Blog posts on this site go in _posts/ with category: publication
+
+- title: "AI Safety Undervalues Founders"
+  date: "2024"
+  url: "https://www.lesswrong.com/posts/YOUR_POST_ID/ai-safety-undervalues-founders"
+  description: "An argument for why the AI safety field needs to invest more heavily in entrepreneurial talent and organization-building capacity."
+  source: "LessWrong"
+  tags:
+    - "Field Building"
+
+# Add more publications below:
+# - title: "Publication Title"
+#   date: "2024"
+#   url: "https://example.com"
+#   description: "Brief description."
+#   source: "LessWrong"  # or "EA Forum", "arXiv", etc.
+#   tags:
+#     - "Tag1"

@@ -1,0 +1,15 @@
+# Notes - quick posts, FB posts, tweets, short thoughts
+# For external links. Short posts on this site go in _posts/ with category: note
+
+# - title: "Note title or first line"
+#   date: "January 2024"
+#   url: "https://twitter.com/username/status/123456"
+#   description: "Optional brief description"
+#   type: "Tweet"  # or "Facebook", "Quick Take", "Thread", etc.
+
+# Example:
+# - title: "Thoughts on the current state of alignment research"
+#   date: "December 2024"
+#   url: "https://twitter.com/ryankidd/status/12345"
+#   description: "A thread on what I'm seeing in the field."
+#   type: "Thread"

@@ -1,0 +1,40 @@
+---
+layout: page
+title: Publications
+description: Papers, essays, and in-depth writing
+permalink: /publications/
+---
+
+<div class="card-grid">
+    {% for pub in site.data.publications %}
+    <div class="card">
+        <div class="card-date">{{ pub.date }}</div>
+        <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
+        <p>{{ pub.description }}</p>
+        <div class="card-tags">
+            <span class="tag">{{ pub.source }}</span>
+            {% for tag in pub.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+
+    {% comment %} Also show posts tagged as publications {% endcomment %}
+    {% for post in site.posts %}
+    {% if post.category == 'publication' %}
+    <div class="card">
+        <div class="card-date">{{ post.date | date: "%B %Y" }}</div>
+        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p>{{ post.description | default: post.excerpt | strip_html | truncate: 150 }}</p>
+        {% if post.tags.size > 0 %}
+        <div class="card-tags">
+            {% for tag in post.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>

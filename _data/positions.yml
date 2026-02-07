@@ -1,0 +1,12 @@
+# Board and advisory positions
+# Listed on the About page
+
+- role: "Board Member"
+  organization: "Organization Name"
+
+- role: "Advisor"
+  organization: "Organization Name"
+
+# Add more positions:
+# - role: "Role Title"
+#   organization: "Organization Name"

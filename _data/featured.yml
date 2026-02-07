@@ -1,0 +1,16 @@
+# Featured items shown on the homepage
+# Add/remove/reorder as needed
+
+- title: "AI Safety Undervalues Founders"
+  type: "Recent Writing"
+  url: "https://www.lesswrong.com/posts/YOUR_POST_ID/ai-safety-undervalues-founders"
+  description: "Why the AI safety field needs to invest more in entrepreneurial talent and organization-building, not just technical research."
+  source: "LessWrong"
+  date: "2024"
+
+- title: "The Cognitive Revolution with Nathan Labenz"
+  type: "Podcast"
+  url: "https://www.cognitiverevolution.ai/episode-link"
+  description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
+  source: "The Cognitive Revolution"
+  date: "2024"
