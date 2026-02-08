@@ -7,7 +7,17 @@
   source: "LessWrong"
   date: "2025-11-15"
   tags:
-    - "Field Building"
+    - "AI Safety"
+    - "Field-Building"
+
+- title: "Implications of the inference scaling paradigm for AI safety"
+  url: "https://www.lesswrong.com/posts/HiTjDZyWdLEGCDzqu/implications-of-the-inference-scaling-paradigm-for-ai-safety"
+  description: "A summary of how the advent of inference scaling models like ChatGPT o1 changes the landscape of AI safety"
+  source: "LessWrong"
+  date: "2025-1-23"
+  tags:
+    - "AI Safety"
+    - "Prioritization"
 
 - title: "Talent Needs of Technical AI Safety Teams"
   url: "https://www.lesswrong.com/posts/QzQQvGJYDeaDE4Cfg/talent-needs-of-technical-ai-safety-teams"
@@ -15,7 +25,8 @@
   source: "LessWrong"
   date: "2024-5-23"
   tags:
-    - "Field Building"
+    - "AI Safety"
+    - "Field-Building"
 
 
 
