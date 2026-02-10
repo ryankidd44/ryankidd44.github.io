@@ -8,11 +8,11 @@ tags:
   - Field Building
 ---
 
-Originally published on [LessWrong](https://www.lesswrong.com/posts/tPjAgWpsQrveFECWP/ryan-kidd-s-shortform?commentId=aPAtazuRt2np2zn6n).
-
 I think that AI safety field-building in Australia should accelerate. My rationale and recommendations are below.
 
 COI: I am Australian and advise AI Safety ANZ and TARA in unpaid roles.
+
+Originally published on [LessWrong](https://www.lesswrong.com/posts/tPjAgWpsQrveFECWP/ryan-kidd-s-shortform?commentId=aPAtazuRt2np2zn6n).
 
 # Rationale
 
