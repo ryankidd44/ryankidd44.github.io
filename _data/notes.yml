@@ -1,6 +1,12 @@
 # Notes - quick posts, FB posts, tweets, short thoughts
 # For external links. Short posts on this site go in _posts/ with category: note
 
+- title: "AI safety field-building in Australia should accelerate"
+  date: "2026-02-07"
+  url: "https://www.lesswrong.com/posts/tPjAgWpsQrveFECWP/ryan-kidd-s-shortform?commentId=aPAtazuRt2np2zn6n"
+  description: "AI safety field-building in Australia should accelerate. OpenAI and Anthropic opened Sydney offices, OpenAI started building a $4.6B datacenter in Sydney, and the country is a close US/UK ally."
+  type: "LessWrong"
+
 # - title: "Note title or first line"
 #   date: "January 2024"
 #   url: "https://twitter.com/username/status/123456"
