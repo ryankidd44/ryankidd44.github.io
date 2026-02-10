@@ -729,3 +729,29 @@ footer {
 .mt-2 { margin-top: 1rem; }
 .mt-3 { margin-top: 1.5rem; }
 .mt-4 { margin-top: 2rem; }
+
+/* Notes feed */
+.notes-feed hr {
+    margin: 2.5rem 0;
+    border: none;
+    height: 1px;
+    background: var(--border);
+}
+
+.notes-feed hr:last-child {
+    display: none;
+}
+
+.note-item h2 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+
+.note-content {
+    color: var(--text-secondary);
+    margin-top: 1rem;
+}
+
+.note-content p {
+    margin-bottom: 1rem;
+}
