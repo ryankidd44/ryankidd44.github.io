@@ -4,6 +4,8 @@ title: "Bosonic vs. fermionic moral theories"
 category: note
 tags:
   - Philosophy
+  - Facebook
+  - X
 ---
 
 I propose a new name for an important metaethical distinction: bosonic vs. fermionic moral theories. Bosons are particles that can degenerately occupy the same state, while fermions can only occupy individual states.

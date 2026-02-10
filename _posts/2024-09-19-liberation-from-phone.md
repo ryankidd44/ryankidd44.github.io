@@ -3,6 +3,7 @@ layout: post
 title: "Liberation from phone"
 category: note
 tags:
+  - Facebook
 ---
 
 A couple days ago, I woke up and my phone was dead. It vibrated, but the screen remained black. Nothing fixed it. I ordered a replacement and resigned myself to wait.

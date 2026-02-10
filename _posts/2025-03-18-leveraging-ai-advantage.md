@@ -5,6 +5,7 @@ category: note
 tags:
   - AI Safety
   - Economics
+  - Facebook
 ---
 
 I expect that soon the "ability to leverage AI" will become a massive selective advantage for knowledge work. Consequences:

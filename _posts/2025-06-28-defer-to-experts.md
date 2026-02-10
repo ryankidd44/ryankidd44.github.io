@@ -5,6 +5,7 @@ category: note
 tags:
   - Epistemics
   - Pain
+  - Facebook
 ---
 
 Strong take, loosely held: I find that Rationalists, longevity types, "biohackers", and "body work" advocates are often making a common mistake that I'll call "trying to solve the problem yourself instead of identifying and deferring to experts." Here are some (I claim) false beliefs that I commonly encounter:

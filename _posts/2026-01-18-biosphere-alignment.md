@@ -5,6 +5,7 @@ category: note
 tags:
   - AI Safety
   - Philosophy
+  - Facebook
 ---
 
 

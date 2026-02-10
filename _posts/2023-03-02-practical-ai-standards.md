@@ -5,6 +5,8 @@ category: note
 tags:
   - AI Safety
   - Incentive Mechanisms
+  - Facebook
+  - LessWrong
 ---
 
 Reasons that scaling labs might be motivated to sign onto AI safety standards:

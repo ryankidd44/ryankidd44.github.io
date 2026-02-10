@@ -4,6 +4,7 @@ title: "Useful neuroticism"
 category: note
 tags:
   - Philosophy
+  - Facebook
 ---
 
 There's a certain level of neuroticism that I think is very useful for leading an examined life. If one is satisfied with their current impact on the world, they aren't looking for ways to improve. Too much contentment can lead to complacency and stagnation. But too much discontentment feels miserable! What do?

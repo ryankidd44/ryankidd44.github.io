@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Selection processes for subagents
+title: "Selection processes for subagents"
+description: "This post consists of rough thoughts on possible training processes that select for multi-agent architectures, or ``subagents'', in neural networks"
+category: post
+tags:
+  - AI Safety
 ---
 
 *This post consists of rough thoughts on possible training processes that select for multi-agent architectures, or "subagents", in neural networks. I deliberately ignore [delegative subagents that are instantiated by mesa-optimizers](https://www.lesswrong.com/posts/8RCCMStERhfkYZC8i/the-subagent-problem-is-really-hard) and instead* *focus on subagent architectures that arise due to "non-agentic" training processes alone.*

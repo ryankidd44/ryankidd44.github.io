@@ -4,6 +4,7 @@ title: "Beneficial indulgence"
 category: note
 tags:
   - Philosophy
+  - Facebook
 ---
 
 A friend shared some wisdom with me last night: "When I indulge myself, good things happen." I reflected deeply on this as I feel I haven't indulged my intellectual curiosity in a big way for a long time. A hypothesis and possible explanation for the aphorism, informed by stoicism:

@@ -5,6 +5,7 @@ category: note
 tags:
   - AI Safety
   - Philosophy
+  - Facebook
 ---
 
 If e/acc's/Landians are all about accelerating natural tendencies, do they aim to build black holes or aid vacuum collapse? Their mission literally seems to be, "let's make maximally uninteresting things happen faster." I much prefer "process-based" over "outcome-based" meta-ethics for this reason.
