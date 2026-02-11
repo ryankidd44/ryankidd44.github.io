@@ -755,3 +755,14 @@ footer {
 .note-content p {
     margin-bottom: 1rem;
 }
+
+/* Note content lists */
+.note-content ul,
+.note-content ol {
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.note-content li {
+    margin-bottom: 0.5rem;
+}
