@@ -36,6 +36,24 @@
     - "AI Safety"
     - "Prioritization"
 
+- title: "Why I funded PIBBSS"
+  url: "https://www.lesswrong.com/posts/Yjiw5rnu4mJsYN8Xc/why-i-funded-pibbss-1"
+  description: "Explanation of [PIBBSS](https://pibbss.ai)' value to AI safety field-building"
+  source: "LessWrong"
+  date: "2025-9-15"
+  tags:
+    - "AI Safety"
+    - "Field-Building"
+
+- title: "Standing resolute, with empathy"
+  url: "https://ryankidd.substack.com/p/standing-resolute-with-empathy"
+  description: "Trauma integration and the untrammeled mind."
+  source: "Substack"
+  date: "2024-6-24"
+  tags:
+    - "Philosophy"
+    - "Psychology"
+
 - title: "Talent Needs of Technical AI Safety Teams"
   url: "https://www.lesswrong.com/posts/QzQQvGJYDeaDE4Cfg/talent-needs-of-technical-ai-safety-teams"
   description: "The primary archetypes of technical talent needed for AI safety."

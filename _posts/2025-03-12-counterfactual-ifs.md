@@ -4,6 +4,7 @@ title: "Counterfactual IFS"
 category: note
 tags:
   - Philosophy
+  - Psychology
   - Facebook
 ---
 

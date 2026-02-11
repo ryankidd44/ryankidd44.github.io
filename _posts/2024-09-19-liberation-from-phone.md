@@ -3,6 +3,7 @@ layout: post
 title: "Liberation from phone"
 category: note
 tags:
+  - Philosophy
   - Facebook
 ---
 
