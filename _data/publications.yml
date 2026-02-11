@@ -10,6 +10,23 @@
     - "AI Safety"
     - "Field-Building"
 
+- title: "The East Bay is coping, not flourishing"
+  url: "https://ryankidd.substack.com/p/the-east-bay-is-coping-not-flourishing"
+  description: "Sometimes it feels like there is a deep loneliness and anxiety at the heart of the East Bay EA, Rationality, Postrat, Tpot social scene. Like people are afraid to put down roots or truly connect...because it could all be snatched away."
+  source: "Substack"
+  date: "2025-6-21"
+  tags:
+    - "Philosophy"
+
+- title: "Our Cosmic Potential"
+  type: "Recent Writing"
+  url: "https://ryankidd.substack.com/p/our-cosmic-potential"
+  description: "A reflection on humanity's vast cosmic potential and the existential risks we must navigate to realize it."
+  source: "Substack"
+  date: "2025-1-30"
+  tags:
+    - "Philosophy"
+
 - title: "Implications of the inference scaling paradigm for AI safety"
   url: "https://www.lesswrong.com/posts/HiTjDZyWdLEGCDzqu/implications-of-the-inference-scaling-paradigm-for-ai-safety"
   description: "A summary of how the advent of inference scaling models like ChatGPT o1 changes the landscape of AI safety"
@@ -28,7 +45,57 @@
     - "AI Safety"
     - "Field-Building"
 
+- title: "How MATS addresses “mass movement building” concerns"
+  url: "https://www.lesswrong.com/posts/iD6tYjLLFFn4LXgnt/how-mats-addresses-mass-movement-building-concerns"
+  description: "Recently, many AI safety movement-building programs have been criticized for attempting to grow the field too rapidly. At MATS, we think that these are real and important concerns and support mitigating efforts."
+  source: "LessWrong"
+  date: "2023-5-3"
+  tags:
+    - "AI Safety"
+    - "Field-Building"
 
+- title: "Aspiring AI safety researchers should ~argmax over AGI timelines"
+  url: "https://www.lesswrong.com/posts/khKBJkk6T9hAQ69zT/aspiring-ai-safety-researchers-should-argmax-over-agi"
+  description: "Many people seem to be entering the AI safety ecosystem, acquiring a belief in short timelines and high P(doom), and immediately dropping everything to work on AI safety agendas that might pay off in short-timeline worlds. However, many of these people might not have a sufficient “toolbox” or research experience to have much marginal impact in short timelines worlds."
+  source: "LessWrong"
+  date: "2023-3-2"
+  tags:
+    - "AI Safety"
+    - "Field-Building"
+
+- title: "Air-gapping evaluation and support"
+  url: "https://www.lesswrong.com/posts/ehLR9HeXB5TMp9Y4v/air-gapping-evaluation-and-support"
+  description: "I think evaluation and support mechanisms should be somewhat “air-gapped,” or isolated, in their information-gathering and decision-making processes."
+  source: "LessWrong"
+  date: "2022-12-26"
+  tags:
+    - "Field-Building"
+    - "Philosophy"
+
+- title: "Probably good projects for the AI safety ecosystem"
+  url: "https://www.lesswrong.com/posts/v5z6rDuFPKM5dLpz8/probably-good-projects-for-the-ai-safety-ecosystem"
+  description: "A list of projects that are probably good for the AI safety ecosystem, at least according to me."
+  source: "LessWrong"
+  date: "2022-12-04"
+  tags:
+    - "AI Safety"
+    - "Field-Building"
+
+- title: "Selection processes for subagents"
+  url: "https://www.lesswrong.com/posts/d4hw4FBX9YXHGFBWQ/selection-processes-for-subagents"
+  description: "People sometimes talk about the human mind containing ``subagents''. I wrote about some possible processes that might favor multi-agent architectures in neural networks."
+  source: "LessWrong"
+  date: "2022-6-30"
+  tags:
+    - "AI Safety"
+
+- title: "Is Fisherian Runaway Gradient Hacking?"
+  url: "https://www.lesswrong.com/posts/eqNvpQst5TRLbxyTK/is-fisherian-runaway-gradient-hacking"
+  description: "Fisherian runaway is an insightful example of the path-dependence of local search, where an easily acquired and apparently useful proxy goal can be so strongly favored that disadvantageous traits emerge as side effects."
+  source: "LessWrong"
+  date: "2022-04-10"
+  tags:
+    - "AI Safety"
 
 # Add more publications below:
 # - title: "Publication Title"
