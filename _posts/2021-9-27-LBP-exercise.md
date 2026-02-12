@@ -1,6 +1,11 @@
 ---
 layout: post
-title: Preventing low back pain with exercise
+title: "Preventing low back pain with exercise"
+description: "Low back pain is common, debilitating, and probably solvable."
+category: post
+tags:
+  - Pain
+  - Exercise
 ---
 
 Low back pain (LBP) is an extremely common and debilitating symptom worldwide, experienced by people of all ages and socioeconomic circumstance [[1]](http://doi.org/10.1016/S0140-6736(18)30480-X). In 2017, LBP contributed 65 million disability-adjusted life-years and was the primary cause of work absenteeism and disability worldwide [[2]](https://doi.org/10.21037/atm.2020.02.175). Most LBP cannot be attributed to a specific source and bouts, while typically short, frequently reoccur [[1]](http://doi.org/10.1016/S0140-6736(18)30480-X).

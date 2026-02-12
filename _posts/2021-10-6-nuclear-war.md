@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Is nuclear deterrence worth extinction risk?
+title: "Is nuclear deterrence worth extinction risk?"
+description: "A discussion of the existential consequences of nuclear war."
+category: post
+tags:
+  - Existential Risk
 ---
 
 To illustrate why choices that lead to extinction events are potentially

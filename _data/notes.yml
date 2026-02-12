@@ -1,36 +1,6 @@
 # Notes - quick posts, FB posts, tweets, short thoughts
 # For external links. Short posts on this site go in _posts/ with category: note
 
-- title: "AI safety field-building in Australia should accelerate"
-  date: "2026-02-07"
-  url: "https://www.lesswrong.com/posts/tPjAgWpsQrveFECWP/ryan-kidd-s-shortform?commentId=aPAtazuRt2np2zn6n"
-  description: "AI safety field-building in Australia should accelerate. OpenAI and Anthropic opened Sydney offices, OpenAI started building a $4.6B datacenter in Sydney, and the country is a close US/UK ally."
-  tags: 
-    - "AI Safety"
-    - "LessWrong"
-
-- title: "AI conferences are growing exponentially"
-  date: "2025-12-29"
-  url: "https://www.lesswrong.com/posts/tpjagwpsqrvefecwp/ryan-kidd-s-shortform?commentid=apatazurt2np2zn6n"
-  description: "Attendees at the top-four ai conferences have been growing at 1.26x/year on average."
-  type: "LessWrong"
-
-- title: "80% of MATS alumni are working in AI safety"
-  date: "2025-08-28"
-  url: "https://www.lesswrong.com/posts/tPjAgWpsQrveFECWP/ryan-kidd-s-shortform?commentId=6dwq7qkszz5dyZ6sj"
-  description: "80% of MATS alumni who completed the program before 2025 are still working on AI safety today and 10% co-founded an active AI safety start-up or team during or after the program"
-  tags: 
-    - "AI Safety"
-    - "LessWrong"
-
-- title: "The AI safety community needs help founding projects"
-  date: "2024-07-12"
-  url: "https://www.lesswrong.com/posts/tPjAgWpsQrveFECWP/ryan-kidd-s-shortform?commentId=JDcp5AhWwk9ZCv59r"
-  description: "AI safety should scale, research orgs are often more efficient than independent researchers, there is a market for for-profit AI safety start-ups, and new AI safety organizations struggle to get funding and co-founders despite having good ideas"
-  tags: 
-    - "AI Safety"
-    - "LessWrong"
-
 # - title: "Note title or first line"
 #   date: "January 2024"
 #   url: "https://twitter.com/username/status/123456"

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: My favourite resources
+description: "A perpetually updating list of my favourite resources."
+category: post
+tags:
 ---
 
 A perpetually updating list of my favourite resources for a variety of goals:
