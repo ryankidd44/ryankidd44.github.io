@@ -813,15 +813,15 @@ footer {
 .talk-image {
     flex-shrink: 0;
     width: 120px;
-    height: 120px;
     border-radius: 8px;
     overflow: hidden;
 }
 
 .talk-image img {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
+    height: auto;
+    object-fit: contain;
+    border-radius: 8px;
 }
 
 .talk-content {
@@ -835,6 +835,6 @@ footer {
 
     .talk-image {
         width: 100%;
-        height: 180px;
+        max-width: 200px;
     }
 }
