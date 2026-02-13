@@ -7,15 +7,22 @@ permalink: /talks/
 
 <div class="card-grid">
     {% for talk in site.data.talks %}
-    <div class="card">
-        <div class="card-date">{{ talk.date }}</div>
-        <h3><a href="{{ talk.url }}">{{ talk.title }}</a></h3>
-        <p>{{ talk.description }}</p>
-        <div class="card-tags">
-            <span class="tag">{{ talk.type }}</span>
-            {% for tag in talk.tags %}
-            <span class="tag">{{ tag }}</span>
-            {% endfor %}
+    <div class="card talk-card">
+        {% if talk.image %}
+        <a href="{{ talk.url }}" class="talk-image">
+            <img src="{{ site.baseurl }}{{ talk.image }}" alt="{{ talk.title }}">
+        </a>
+        {% endif %}
+        <div class="talk-content">
+            <div class="card-date">{{ talk.date }}</div>
+            <h3><a href="{{ talk.url }}">{{ talk.title }}</a></h3>
+            <p>{{ talk.description }}</p>
+            <div class="card-tags">
+                <span class="tag">{{ talk.type }}</span>
+                {% for tag in talk.tags %}
+                <span class="tag">{{ tag }}</span>
+                {% endfor %}
+            </div>
         </div>
     </div>
     {% endfor %}

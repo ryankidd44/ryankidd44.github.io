@@ -6,6 +6,7 @@
   url: "https://kairos.fm/intoaisafety/e027/"
   description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
   source: "Into AI Safety"
+  image: "/images/talks/into_ai_safety.webp"
   date: "2026-2-1"
 
 - title: "BlueDot Impact: Why AI Safety Needs Founders"
@@ -13,6 +14,7 @@
   url: "https://blog.bluedot.org/p/ryan-kidd"
   description: "I discuss my background, pathway into AI safety field-building, and recommendations for aspiring founders and field-builders."
   source: "BlueDot Impact"
+  image: "/images/talks/bluedot.jpg"
   date: "2026-1-30"
 
 - title: "The Cognitive Revolution: Building & Scaling the AI Safety Research Community"
@@ -20,6 +22,7 @@
   url: "https://www.cognitiverevolution.ai/building-scaling-the-ai-safety-research-community-with-ryan-kidd-of-mats/"
   description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
   source: "The Cognitive Revolution"
+  image: "/images/talks/cognitive_revolution.png"
   date: "2026-1-4"
 
 - title: "AISF 2024: Accelerating AI Safety Talent"
