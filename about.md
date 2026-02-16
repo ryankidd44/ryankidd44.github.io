@@ -13,7 +13,7 @@ permalink: /about/
 
     <div class="about-section">
         <h3>Mission</h3>
-        <p>I believe the development of transformative AI is one of the most important events in human history, and that we have a narrow window to get the foundations right. My focus is on scaling AI safety through building the organizations, talent pipelines, and infrastructure needed to ensure advanced AI systems are developed safely and for the benefit of all.</p>
+        <p>I believe the development of transformative AI is one of the most important events in human history, and that we have a <a href="https://agi.goodheartlabs.com">narrow window</a> to get the foundations right. My focus is on scaling AI safety through building the organizations, talent pipelines, and infrastructure needed to ensure advanced AI systems are developed safely and for the benefit of all.</p>
     </div>
 
     <div class="about-section">
@@ -30,6 +30,6 @@ permalink: /about/
 
     <div class="about-section">
         <h3>Background</h3>
-        <p>Before MATS, I completed a PhD in physics at the University of Queensland.
+        <p>Before MATS, I completed a PhD in physics at the University of Queensland, studying signatures of quantum chaos in ultracold atomic systems. I grew up on the Gold Coast, Australia and was a member of the Scout Movement for 20 years. I enjoy science fiction, latin dancing, and powerlifting.</p>
     </div>
 </div>
