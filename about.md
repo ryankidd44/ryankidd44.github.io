@@ -13,7 +13,7 @@ permalink: /about/
 
     <div class="about-section">
         <h3>Mission</h3>
-        <p>I believe the development of transformative AI is one of the most important events in human history, and that we have a <a href="https://agi.goodheartlabs.com">narrow window</a> to get the foundations right. My focus is on scaling AI safety through building the organizations, talent pipelines, and infrastructure needed to ensure advanced AI systems are developed safely and for the benefit of all.</p>
+        <p>I believe the development of transformative AI is one of the <a href="https://www.cold-takes.com/most-important-century/">most important events</a> in human history, and that we have a <a href="https://agi.goodheartlabs.com">narrow window</a> to <a href="https://www.science.org/doi/10.1126/science.adn0117">get the foundations right</a>. My focus is on scaling AI safety through building the organizations, talent pipelines, and infrastructure needed to ensure advanced AI systems are developed safely and for the benefit of all.</p>
     </div>
 
     <div class="about-section">
