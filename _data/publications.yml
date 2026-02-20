@@ -28,6 +28,15 @@
     - "AI Safety"
     - "Prioritization"
 
+- title: "MATS mentor selection"
+  url: "https://www.lesswrong.com/posts/LvswJts75fnpdjAEj/mats-mentor-selection"
+  description: "A description of the MATS Program's mentor selection process."
+  source: "LessWrong"
+  date: "2025-1-9"
+  tags:
+    - "AI Safety"
+    - "Field-Building"
+
 - title: "Why I funded PIBBSS"
   url: "https://www.lesswrong.com/posts/Yjiw5rnu4mJsYN8Xc/why-i-funded-pibbss-1"
   description: "Explanation of PIBBSS.ai's value to AI safety field-building"
