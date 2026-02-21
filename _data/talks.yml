@@ -1,6 +1,14 @@
 # Talks, podcasts, and presentations
 # Most recent first
 
+- title: "Constellation Seminar: Scaling AI Safety"
+  type: "Talk"
+  url: "https://youtu.be/P5rO5kHiw_8"
+  description: "A presentation on why AI safety should scale 2x/year and how we can achieve this."
+  source: "Constellation Seminar"
+  image: "/images/talks/constellation_talk.png"
+  date: "2026-3-2"
+
 - title: "Into AI Safety: Scaling AI Safety Through Mentorship"
   type: "Podcast"
   url: "https://kairos.fm/intoaisafety/e027/"
