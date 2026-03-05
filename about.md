@@ -30,6 +30,6 @@ permalink: /about/
 
     <div class="about-section">
         <h3>Background</h3>
-        <p>Before MATS, I completed a PhD in physics at the University of Queensland, studying <a href="https://scholar.google.com/citations?user=krfonA0AAAAJ">signatures of quantum chaos in ultracold atomic systems</a>. I grew up on the Gold Coast, Australia and was a member of the Scout Movement for 20 years. I enjoy science fiction, latin dancing, and powerlifting.</p>
+        <p>Before MATS, I completed a PhD in physics at the University of Queensland, studying <a href="https://scholar.google.com/citations?user=krfonA0AAAAJ">signatures of quantum chaos in ultracold atomic systems</a>. I grew up on the Gold Coast, Australia and was a member of the <a href="https://en.wikipedia.org/wiki/Scouting">Scout Movement</a> for 20 years. I enjoy science fiction, latin dancing, and powerlifting.</p>
     </div>
 </div>
