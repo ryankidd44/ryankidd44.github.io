@@ -22,7 +22,7 @@ permalink: /about/
             {% for position in site.data.positions %}
             <li>
                 <span class="position-title">{{ position.role }}</span>
-                <span class="position-org">— {{ position.organization }}</span>
+                <span class="position-org">— {% if position.url %}<a href="{{ position.url }}">{{ position.organization }}</a>{% else %}{{ position.organization }}{% endif %}</span>
             </li>
             {% endfor %}
         </ul>

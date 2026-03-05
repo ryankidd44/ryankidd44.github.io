@@ -3,24 +3,35 @@
 
 - role: "Board Member"
   organization: "London Initiative for Safe AI (LISA)"
+  url: "https://safeai.org.uk"
 
 - role: "Regrantor"
   organization: "Manifund"
+  url: "https://manifund.com/RyanKidd"
 
 - role: "Advisor"
   organization: "Halcyon Futures"
+  url: "https://halcyonfutures.org/"
 
 - role: "Advisor"
   organization: "Catalyze Impact"
+  url: "https://www.catalyze-impact.org/"
 
 - role: "Advisor"
   organization: "Pivotal Research"
+  url: "https://www.pivotal-research.org/"
+
+- role: "Advisor"
+  organization: "Alignment Foundation"
+  url: "https://www.aialignmentfoundation.org/"
 
 - role: "Advisor"
   organization: "AI Safety ANZ"
+  url: "https://www.aisafetyanz.com.au/"
 
 - role: "Advisor"
   organization: "Black in AI Safety and Ethics (BASE)"
+  url: "https://www.baseresearch.org/"
 
 # Add more positions:
 # - role: "Role Title"
