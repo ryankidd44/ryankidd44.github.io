@@ -33,6 +33,14 @@
   image: "/images/talks/cognitive_revolution.png"
   date: "2026-1-4"
 
+- title: "ILIAD 2: AI safety field-building"
+  type: "Panel"
+  url: "https://www.youtube.com/watch?v=qewH-ZXST6k"
+  description: "A discussion between Ryan Kidd (MATS) and Dušan Nešić (PIBBSS) about AI safety field-building."
+  source: "ILIAD 2: ODYSSEY Conference"
+  image: "/images/talks/iliad2.webp"
+  date: "2025-10-23"
+
 - title: "Australian AI Safety Forum 2024: Accelerating AI Safety Talent"
   type: "Talk"
   url: "https://www.youtube.com/watch?v=lm_bhDEEvMw"
