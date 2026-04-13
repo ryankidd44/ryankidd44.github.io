@@ -14,7 +14,7 @@
   url: "https://youtu.be/P5rO5kHiw_8"
   description: "A presentation on why AI safety should scale 2x/year and how we can achieve this."
   source: "Constellation Seminar"
-  image: "/images/talks/constellation_logo.png"
+  image: "/images/talks/constellation_logo.svg"
   date: "2026-3-2"
 
 - title: "Into AI Safety: Scaling AI Safety Through Mentorship"
