@@ -1,6 +1,14 @@
 # Talks, podcasts, and presentations
 # Most recent first
 
+- title: "Intelligence at the Frontier 2026: Scaling AI Safety and Security"
+  type: "Talk"
+  url: "https://youtu.be/hd35o-XowKQ?si=g4jNH9CkNXH_oXd9"
+  description: "A presentation on why AI safety should scale 2x/year and how we can achieve this."
+  source: "Intelligence at the Frontier 2026"
+  image: "/images/talks/ftc_intelligence_frontier.jpg"
+  date: "2026-3-15"
+
 - title: "Constellation Seminar: Scaling AI Safety"
   type: "Talk"
   url: "https://youtu.be/P5rO5kHiw_8"
