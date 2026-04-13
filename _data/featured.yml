@@ -1,6 +1,13 @@
 # Featured items shown on the homepage
 # Add/remove/reorder as needed
 
+- title: "Scaling AI Safety and Security"
+  type: "Talk"
+  url: "https://youtu.be/hd35o-XowKQ?si=g4jNH9CkNXH_oXd9"
+  description: "A presentation on why AI safety should scale 2x/year and how we can achieve this."
+  source: "Intelligence at the Frontier 2026"
+  date: "2026-3-15"
+
 - title: "AI Safety Undervalues Founders"
   type: "Recent Writing"
   url: "https://www.lesswrong.com/posts/yw9B5jQazBKGLjize/ai-safety-undervalues-founders"
@@ -14,10 +21,3 @@
   description: "A conversation on MATS, scaling alignment research training, and the state of the AI safety field."
   source: "The Cognitive Revolution"
   date: "2026-1-4"
-
-- title: "Talent Needs of Technical AI Safety Teams"
-  type: "Report"
-  url: "https://www.lesswrong.com/posts/QzQQvGJYDeaDE4Cfg/talent-needs-of-technical-ai-safety-teams"
-  description: "The primary archetypes of technical talent needed for AI safety."
-  source: "LessWrong"
-  date: "2024-5-23"
