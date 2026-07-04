@@ -37,6 +37,10 @@
   organization: "Frame"
   url: "https://framefellowship.com/"
 
+- role: "Grant reviewer"
+  organization: "Grantmaking.ai"
+  url: "https://grantmaking.ai/"
+
 # Add more positions:
 # - role: "Role Title"
 #   organization: "Organization Name"
