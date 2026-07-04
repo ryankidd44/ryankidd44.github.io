@@ -33,6 +33,10 @@
   organization: "Alignment Foundation"
   url: "https://www.aialignmentfoundation.org/"
 
+- role: "Advisor"
+  organization: "Frame"
+  url: "https://framefellowship.com/"
+
 # Add more positions:
 # - role: "Role Title"
 #   organization: "Organization Name"
