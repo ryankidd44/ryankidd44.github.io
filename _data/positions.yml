@@ -41,6 +41,10 @@
   organization: "Grantmaking.ai"
   url: "https://grantmaking.ai/"
 
+- role: "Advisor"
+  organization: "Technical Alignment Research Accelerator (TARA)"
+  url: "https://www.taraprogram.org/"
+
 # Add more positions:
 # - role: "Role Title"
 #   organization: "Organization Name"
