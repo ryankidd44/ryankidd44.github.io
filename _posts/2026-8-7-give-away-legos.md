@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Give away your legos"
+title: "Give away your Legos"
 category: note
 tags:
   - Philosophy
