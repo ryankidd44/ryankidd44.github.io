@@ -1,6 +1,14 @@
 # Talks, podcasts, and presentations
 # Most recent first
 
+- title: "Inside the Race to Train People to Make AI Safe"
+  type: "Podcast"
+  url: "https://www.youtube.com/watch?v=fqCKS6U3S68"
+  description: "Discover why one of AI safety’s fastest-growing organizations is racing to develop researchers before frontier AI begins doing much of the research itself and why Ryan Kidd believes safety has to keep up with capabilities."
+  source: "We Humans & AI"
+  image: "/images/talks/whai.jpg"
+  date: "2026-10-8"
+
 - title: "Intelligence at the Frontier 2026: Scaling AI Safety and Security"
   type: "Talk"
   url: "https://youtu.be/hd35o-XowKQ?si=g4jNH9CkNXH_oXd9"
