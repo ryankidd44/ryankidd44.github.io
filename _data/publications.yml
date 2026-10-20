@@ -1,6 +1,14 @@
 # Publications - papers, essays, in-depth writing
 # For external links (LessWrong, etc). Blog posts on this site go in _posts/ with category: publication
 
+- title: "Should safety researchers quit frontier labs re. warning shots?"
+  url: "https://www.lesswrong.com/posts/TfqMs3AarsHnHiwai/should-safety-researchers-quit-frontier-labs-re-warning"
+  description: "A discussion on mitigating 'warning shots.'"
+  source: "LessWrong"
+  date: "2026-9-4"
+  tags:
+    - "AI Safety"
+
 - title: "AI Safety Undervalues Founders"
   url: "https://www.lesswrong.com/posts/yw9B5jQazBKGLjize/ai-safety-undervalues-founders"
   description: "Why the AI safety field needs to invest more in entrepreneurial talent and organization-building, not just technical research."
